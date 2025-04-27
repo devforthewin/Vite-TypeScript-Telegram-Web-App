@@ -13,10 +13,10 @@ Telegram Web App frontend built with React, Vite, TypeScript, and Material UI.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-webapp-repo.git
+git clone https://github.com/devforthewin/Vite-TypeScript-Telegram-Web-App.git
 
 # Navigate to the project
-cd your-webapp-repo
+cd Vite-TypeScript-Telegram-Web-App
 
 # Install dependencies
 yarn install
